@@ -2,7 +2,7 @@
     "name": "caojinmei-blog",
     "title": "caojinmei Blog",
     "version": "1.0.0",
-    "homepage": "http://caojinmei.github.io",
+    "homepage": "https://caojinmei.github.io",
     "author": "Caojinmei",
     "devDependencies": {
         "grunt": "~0.4.5",
