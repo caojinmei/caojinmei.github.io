@@ -1,11 +1,9 @@
 
 
-> Yet another man.
+> Yet another girl.
 
 
-Hi, I am *@bitnpc* (Chao, Tong), a software engineer & a designer. 
-
-I studied Digital Media Art and graduated from [Beijing Institute of Technology](https://en.wikipedia.org/wiki/Communication_University_of_China) by 2016, and am studying Computer Science at [Rochester Institute of Technology](https://en.wikipedia.org/wiki/Rochester_Institute_of_Technology) from 2017.
+Hi, I am *@caojinmei* (Jinmei, Cao), an illustrator. 
 
 
 ##### Talks

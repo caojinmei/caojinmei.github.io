@@ -1,9 +1,9 @@
 # Site settings
-title: bitnpc Blog
-SEOTitle: bitnpc的博客 | bitnpc Blog
+title: Caojinmei's Blog
+SEOTitle: 曹金梅的博客 | Caojinmei Blog
 header-img: img/home-bg.jpg
-email: bitnpc@gmail.com
-description: "bitnpc的博客"
+email: 591984220@qq.com
+description: "曹金梅的博客"
 keyword: "博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://caojinmei.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username:     bitnpc
-github_username:    bitnpc
-twitter_username:   bitnpc
-facebook_username:  bitnpc
+zhihu_username:     caojinmei
+github_username:    caojinmei
+twitter_username:   caojinmei
+facebook_username:  caojinmei
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -58,7 +58,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: bitnpc
+disqus_username: caojinmei
 
 # Netease settings
 netease_comment: false
